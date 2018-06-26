@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Holo Alfa
+title: Holo Alfa
 
 description:
 
@@ -19,9 +19,6 @@ author:
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
-
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
 
 # language attribute in <html> element.
 lang: en
